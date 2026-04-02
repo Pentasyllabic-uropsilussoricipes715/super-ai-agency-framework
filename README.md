@@ -80,7 +80,7 @@ Phase 7: Ship        → /speckit-ship       → QA regression, handover, produc
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/super-ai-agency-framework.git
+git clone https://github.com/ahmedemad3/super-ai-agency-framework.git
 cd super-ai-agency-framework
 
 # Install Spec-Kit CLI (if not already installed)
